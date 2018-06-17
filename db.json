@@ -1,8 +1,8 @@
 {
 	"profiles": [
 		{ "id": 1, "name": "joey", "age": 25 },
-		{ "id": 2, "name": "jane": "age": 22 },
-		{ "id": 3, "name": "jony": "age": 24 }
+		{ "id": 2, "name": "jane", "age": 22 },
+		{ "id": 3, "name": "jony", "age": 24 }
 	]
 }
 
